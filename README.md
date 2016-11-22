@@ -4,7 +4,7 @@ using JDBC and C to interact with mysql servers.
 -JDBC  
 -->Currently have to input the url,id,password manually into the coding in order to connect to a server  
 
--GUI instructions
+-GUI instructions  
 1. The first box on the left above the select button is where the user inputs the name of the Database one wishes to use  
 2. The second box on the left to the first box is where  the user input query. After the user finishes writing the query, 
    one can press the execute button to get the result of the query.  
