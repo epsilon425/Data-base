@@ -112,7 +112,7 @@ public class JDBC
       P2.add(d2, "Center");
       P2.add(s2, "East");
 
-      mainFrame = new JFrame("Default GUI for CS377 JDBC project");
+      mainFrame = new JFrame("JDBC GUI");
       mainFrame.getContentPane().setLayout( new GridLayout(2,1) );
       mainFrame.getContentPane().add( P1 );
       mainFrame.getContentPane().add( P2 );
